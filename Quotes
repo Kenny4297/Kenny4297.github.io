@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Title-->
+        <title id="#top">My Favorite Quotes</title>
+
+        <!--Here is the link between the HTLM and the CSS file-->
+        <link rel="stylesheet" type="text/css" href="Design.css">
+
+        <!--The Main Header-->
+            <h1>Kenny's Favorite Quotes</h1>
+            <!--This section has been given a class so that the table of contents can be more easily managed for configuration-->
+            <section class="table-of-contents">
+                <h2>Categories</h2>
+                    <p id="Philosophy">Philosophy</p>
+                    <p id="Comedy">Comedy</p>
+                    <p id="Religion">Religion</p>
+                    <p><a href="#People">People</a></p>
+            </section>
+
+    </head>
+    <br>
+        <body>
+            <!-- Philosphy Section-->
+            <section id="Philosophy_Section">
+                <h3><strong>Philosophy</strong></h3>
+                    <p>"I disapprove of what you say, but I will defend to the death your right to say it"- <em><a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a></em></p>
+
+                    <p>“Be careful when a naked man offers you a shirt”- <em>African Proverb</em></p>
+
+                    <p>“Until you have done something for humanity, you should be ashamed to die”- <em><a href="https://en.wikipedia.org/wiki/Horace_Mann" target="_blank">Horace Mann</a></em></p>
+
+                    <p>"In all ages, Truth, poor thing, has been put to shame for being "a nuisance to humanity", and yet it is not her fault. She cannot assume the form of Error, (human opinion), seated on its throne of world-wide sovereignty. So then, with a sigh, she looks up to her tutelage God, Time, who nods assurance to her future victory and glory, but who's wings beat the air so slowly with their mighty strokes, that the individual perishes if ever the day of triumph comes to her"- <em>The Basis of Morality <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">(Schopenhauer)</a></em></p>
+
+                    <p>“Greatness of one’s self is the best revenge”- <em><a href="https://en.wikipedia.org/wiki/Ron_Swanson" target="_blank">Ron Swanson</a></em></p>
+            </section>
+
+            <!--Comedy-->
+            <section>
+            <h3><strong>Comedy</strong></h3>
+                    <p>“There is no difference between white kids and poor kids”- <em><a href="https://en.wikipedia.org/wiki/Joe_Biden" target="_blank">Joe Biden</a></em></p>
+
+                    <p>“I’m a Feminist”; “It’s alright, they’ll cure you soon darling”- <em><a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos" target="_blank">Milo</a></em></p>
+
+                    <p>“The weak bully the strong, contrary to what you see in the media”- <em><a href="https://en.wikipedia.org/wiki/Dwight_Schrute" target="_blank">Dwight</a></em></p>
+
+                    <p>”I don't care what the people do, as long as they don't fuck in the streets and scare the horses”- <em><a href="https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest" target="_blank">The Importance of Being Ernest</a></em></p>
+
+                    <p>“If a man is stealing nuts and bolts from a railway track, and in order to change him you send him to college, at the end of his education he will steal the whole railway track”- <em><a href="https://en.wikipedia.org/wiki/Dwight_L._Moody" target="_blank">D. L. Moody</a></em></p>
+
+            </section>
+
+            <!--Religion-->
+            <section>
+                <h3><strong>Religion</strong></h3>
+                        <p>"Give a christian a map of the sky he knows nothing about, and he will return it to you the next day with God's corrections"- <em><a href="https://en.wikipedia.org/wiki/The_Brothers_Karamazov" target="_blank">The Brothers Karamazov</a></em></p>
+
+                        <p>“For heaven have mercy on all of us, for we are all somehow dreadfully cracked about the head, and sadly need mending” - <em>Ishmael <a href="https://en.wikipedia.org/wiki/Moby-Dick" target="_blank">(Moby Dick)</a></em></p>
+
+                        <p>“Religion is what keeps the poor from murdering the rich”- <em><a href="https://en.wikipedia.org/wiki/Napoleon" target="_blank">Napoleon Bonaparte</a></em></p>
+
+                        <p>“I believe in Spinoza’s God, who reveals himself in the lawful harmony of all that exists, but not in a God who concerns himself with the fate and the doings of mankind”- <em><a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Einstein</a></em> </p>
+
+                        <p>“A Big Mac doesn’t cost you 3.99; it costs you your health. Netflix doesn’t cost 17.99 a month; it costs you your attention. Social media isn’t free; it costs you your focus”</p>
+
+            </section>
+
+            <!--About People-->
+            <section id="People">
+                <h3><strong>People</strong></h3>
+                <a href="#top">Go to top section</a>
+                        <p>"Luck is a concept invented by the weak to explain and defend their failures"- <em><a href="https://en.wikipedia.org/wiki/Ron_Swanson" target="_blank">Ron Swanson</a></em></p>
+
+                        <p>“The best argument against Democracy is a five-minute conversation with an average voter”- <em><a href="https://en.wikipedia.org/wiki/Winston_Churchill" target="_blank">Winston Churchill</a></em></p>
+
+                        <p>“We all live by robbing poor asiatic workers, adults and children, of their freedom, sanity, and any aspirations they may have to escape their horrific conditions. Concomitantly, we all deem that those individuals should be set free, but our standard of living demands that the robbery should continue"- <em><a href="https://en.wikipedia.org/wiki/George_Orwell" target="_blank">Orwell</a></em> </p>
+
+                        <p>"Those who aquire their skills the fastest will be the first to fall"- <em><a href="https://dragonball.fandom.com/wiki/Frieza" target="_blank">Frieza, DBZ</a></em></p>
+
+                        <p>"Those being carried will always be the first to say they are tired"- <em>African Proverb</em></p>
+            </section>
+
+        </body>
+            <section class="foot">
+                <foot>
+                    <p>Made by Kenny himself</p>
+                </foot>
+            </section>
+</html>
